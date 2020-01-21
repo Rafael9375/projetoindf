@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{570580DB-7182-98C2-B0E8-2E30F2BFF414}</ProjectGuid>
+    <ProjectGuid>{FB46724E-2141-72FC-BDF9-19E6E0C780F9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -47,41 +47,42 @@
   <ItemGroup>
      <Compile Include="Assets\instSc.cs" />
      <Compile Include="Assets\mover.cs" />
+     <Compile Include="Assets\sfgsdfg.cs" />
      <Compile Include="Assets\squenciaAleatoria.cs" />
      <Compile Include="Assets\teste.cs" />
      <Compile Include="Assets\TimedSpawn.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/rafae/Desktop/Projeto ind/projetoindf/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Unity/Projeto Unity/ProjetoInd/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

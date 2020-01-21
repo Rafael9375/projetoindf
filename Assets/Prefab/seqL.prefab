@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2390857535891984198}
   m_Layer: 0
   m_Name: seqL
-  m_TagString: Untagged
+  m_TagString: valorL
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -95,6 +95,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obj: {fileID: 4281221211994513586}
+  btn: {fileID: 0}
 --- !u!1 &4281221212331376750
 GameObject:
   m_ObjectHideFlags: 0
